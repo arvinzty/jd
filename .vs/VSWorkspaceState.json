@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\src"
   ],
+  "SelectedNode": "\\public\\css\\element.scss",
   "PreviewInSolutionExplorer": false
 }
