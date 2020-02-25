@@ -2,7 +2,7 @@
   <div id="money">
     <Panel title="理财精选">
       <section class="pane">
-        <router-link v-for="(tem,index) in arr" :key="index" :to="{name:'home'}" tag="dl">
+        <router-link v-for="(tem,index) in arr" :key="index" :to="{path: '/demo'}" tag="dl">
           <dt>{{tem.title}}<span>{{tem.sub}}</span></dt>
           <dd>{{tem.rate}}</dd>
           <dd>{{tem.text}}</dd>

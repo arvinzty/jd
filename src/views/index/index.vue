@@ -1,12 +1,12 @@
 <template>
   <div id="index">
-    <router-views></router-views>
+    <router-view></router-view>
     <NavBar/>
   </div>
 </template>
 
 <script>
-import NavBar from '@/views/index'
+import NavBar from '@/views/navBar'
 export default {
   name: 'index',
   components: {

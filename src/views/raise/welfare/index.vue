@@ -6,7 +6,7 @@
         <img src="//img12.360buyimg.com/jrpmobile/jfs/t7894/126/1440046618/24763/5ce6a129/599cee04Ne77b3641.jpg?width=250&height=330" alt="">
         <img src="//img12.360buyimg.com/jrpmobile/jfs/t6385/103/1675552688/24265/91be4150/59549aedNa30670f7.jpg?width=250&height=330" alt="">
       </section>
-      <router-link :to="{name:'home'}" tag="span">
+      <router-link :to="{path:'/demo'}" tag="span">
         更多福利 >
       </router-link>
     </Panel>

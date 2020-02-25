@@ -8,7 +8,7 @@
             <h4>开通白条</h4>
             <p>送188元礼包</p>
           </div>
-          <router-link :to="{name:'home'}" tag="em">立即开通 ></router-link>
+          <router-link :to="{path:'/demo'}" tag="em">立即开通 ></router-link>
         </li>
         <li>
           <img src="//img12.360buyimg.com/jrpmobile/jfs/t3679/44/511862277/2728/c1c6b2bf/580d8189N6b6f8052.png?width=76&height=76" alt="">
@@ -16,7 +16,7 @@
             <h4>白条闪付</h4>
             <p>新手享158元礼包</p>
           </div>
-          <router-link :to="{name:'home'}" tag="em">随机立减 ></router-link>
+          <router-link :to="{path:'/demo'}" tag="em">随机立减 ></router-link>
         </li>
         <li>
           <img src="//img12.360buyimg.com/jrpmobile/jfs/t3331/69/580199498/3074/d5bb21c5/580d7f6cN7f35e596.png?width=76&height=76" alt="">
@@ -24,7 +24,7 @@
             <h4>白条提额</h4>
             <p>金融app专享提额礼包</p>
           </div>
-          <router-link :to="{name:'home'}" tag="em">去提额 ></router-link>
+          <router-link :to="{path:'/demo'}" tag="em">去提额 ></router-link>
         </li>
       </ul>
     </Panel>

@@ -61,7 +61,7 @@ export default {
   display: flex;
   // flex-wrap: nowrap;
   height: 3.5rem;
-  margin-top: 7.5rem;
+  // margin-top: 7.5rem;
   // overflow: hidden;
   background-color: white;
   img{
